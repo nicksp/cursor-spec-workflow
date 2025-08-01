@@ -89,6 +89,21 @@ Please feel free to:
 - Open an issue to discuss changes or suggest new features.
 - Submit a pull request with your enhancements.
 
+## 🍁 Other Approaches
+
+- [Claude Code Spec Workflow](https://github.com/Pimzino/claude-code-spec-workflow)
+- [Custom Prompts for AI Coding Agents](https://github.com/nicksp/ai-coding-worflow)
+- [Two-step approach to AI coding](https://github.com/sapegin/two-step-ai-coding-modes)
+- [🚀 AI Dev Tasks 🤖](https://github.com/snarktank/ai-dev-tasks)
+- [Agent OS](https://github.com/buildermethods/agent-os)
+- [Prompts for plan & execute workflow in Cursor](https://github.com/carlrannaberg/ai-coding)
+
+## 👤 Author and License
+
+[Nick Plekhanov](https://nikkhan.com/), a full stack engineer.
+
+[CC0 1.0 Universal license](LICENSE).
+
 ---
 
 🤖 Happy AI-assisted developing!
